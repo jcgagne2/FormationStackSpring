@@ -3,7 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/BigDataService" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CurrencyConverter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EurekaServer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ModulithApplication" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/PortfolioService" vcs="Git" />

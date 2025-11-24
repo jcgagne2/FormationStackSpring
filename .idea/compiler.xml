@@ -21,7 +21,7 @@
         <module name="SessionApplication" />
         <module name="ModulithApplication" />
       </profile>
-      <profile name="Annotation profile for StockService" enabled="true">
+      <profile name="Annotation profile for PortfolioService" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -29,10 +29,9 @@
           <entry name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/3.5.7/spring-boot-configuration-processor-3.5.7.jar" />
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
         </processorPath>
-        <module name="BigDataService" />
-        <module name="StockService" />
         <module name="PortfolioService" />
-        <module name="CurrencyConverter" />
+        <module name="StockService" />
+        <module name="BigDataService" />
       </profile>
     </annotationProcessing>
   </component>
