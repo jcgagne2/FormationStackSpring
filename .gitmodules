@@ -1,0 +1,24 @@
+[submodule "BigDataService"]
+	path = BigDataService
+	url = https://github.com/jcgagne2/BigDataService.git
+[submodule "CurrencyConverter"]
+	path = CurrencyConverter
+	url = https://github.com/jcgagne2/CurrencyConverter.git
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = https://github.com/jcgagne2/EurekaServer.git
+[submodule "ModulithApplication"]
+	path = ModulithApplication
+	url = https://github.com/jcgagne2/ModulithApplication.git
+[submodule "PortfolioService"]
+	path = PortfolioService
+	url = https://github.com/jcgagne2/PortfolioService.git
+[submodule "SecuredService"]
+	path = SecuredService
+	url = https://github.com/jcgagne2/SecuredService.git
+[submodule "SessionApplication"]
+	path = SessionApplication
+	url = https://github.com/jcgagne2/SessionApplication.git
+[submodule "StockService"]
+	path = StockService
+	url = https://github.com/jcgagne2/StockService.git

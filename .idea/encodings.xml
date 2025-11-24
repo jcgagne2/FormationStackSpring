@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BigDataService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CurrencyConverter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ModulithApplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PortfolioService/ressource/prometheus/config.yaml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/PortfolioService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SecuredService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SessionApplication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StockService/src/main/java" charset="UTF-8" />
+  </component>
+</project>
