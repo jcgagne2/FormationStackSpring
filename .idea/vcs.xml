@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="VcsDirectoryMappings" defaultProject="true" />
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BigDataService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CurrencyConverter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EurekaServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ModulithApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PortfolioService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SecuredService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SessionApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StockService" vcs="Git" />
+  </component>
 </project>
